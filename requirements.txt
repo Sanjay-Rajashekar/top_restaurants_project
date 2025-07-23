@@ -1,0 +1,5 @@
+requests              "for API calls"
+python-dotenv         "to load API key from .env"
+pytest                "for unit testing"
+requests-mock         "for mocking API requests in tests"
+
